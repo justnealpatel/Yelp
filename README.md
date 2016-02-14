@@ -38,6 +38,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
+It was fun using autolayout! It was new and I'm glad it turned out the way it did. Now we can expand our knowledge of iOS concepts to many screen sizes.
+
 Describe any challenges encountered while building the app.
 
 ## License
